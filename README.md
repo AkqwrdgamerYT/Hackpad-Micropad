@@ -24,5 +24,5 @@ the pcb
 <img width="488" height="251" alt="Screenshot 2026-10-10 124306" src="https://github.com/user-attachments/assets/b6ba9eff-1b8a-41a9-b62d-7ff96cc8878a" />
 the pcb schem
 
-
+https://github.com/AkqwrdgamerYT/Hackpad-Micropad/blob/main/hackpad.zip   for cad and pcb files
 [hackpad.zip](https://github.com/user-attachments/files/33289515/hackpad.zip)
