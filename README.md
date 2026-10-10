@@ -5,10 +5,21 @@ Potentiometer button (mute and unmute)
 Button's 1, 2, and 3 (open YouTube, discord, and opera) 
 Button's 4, 5, and 6 (media controls)
 
+BOM:
+1 Case
+    1 Case bottom
+    1 Case top
+1 PCB
+1 Rotary_Encoder: 11mm Size Metal Shaft Type EC11E Series
+6 Button_Switch_Keyboard: Gateron G Pro Switch Set (BROWN)
+1 Seeed Studio XIAO SAMD21
+
 
 <img width="693" height="392" alt="Screenshot 2026-10-10 124530" src="https://github.com/user-attachments/assets/98a7526d-3173-4d7f-9173-47e3a7753ba9" />
 the case
+
 <img width="342" height="332" alt="Screenshot 2026-10-10 124417" src="https://github.com/user-attachments/assets/38beda70-7adf-4371-a8a8-aec220a95b73" />
 the pcb
+
 <img width="488" height="251" alt="Screenshot 2026-10-10 124306" src="https://github.com/user-attachments/assets/b6ba9eff-1b8a-41a9-b62d-7ff96cc8878a" />
 the pcb schem
