@@ -18,7 +18,7 @@ BOM,qty,Item
 1,1,2822-0004-0014 from gobilda (its a pack of 25 but you only need 4)
 
 
-<img width="693" height="392" alt="Screenshot 2026-10-10 124530" src="https://github.com/user-attachments/assets/98a7526d-3173-4d7f-9173-47e3a7753ba9" />
+<img width="580" height="344" alt="image" src="https://github.com/user-attachments/assets/f9ba4629-534f-42f8-a6c0-1262cecabdb4" />
 the case
 
 <img width="342" height="332" alt="Screenshot 2026-10-10 124417" src="https://github.com/user-attachments/assets/38beda70-7adf-4371-a8a8-aec220a95b73" />
