@@ -15,7 +15,7 @@ BOM,qty,Item
 1,1,Seeed Studio XIAO SAMD21
 6,6,Key caps
 1,1,Dial cap
-1,1,2822-0004-0014 from gobilda
+1,1,2822-0004-0014 from gobilda (its a pack of 25 but you only need 4)
 
 
 <img width="693" height="392" alt="Screenshot 2026-10-10 124530" src="https://github.com/user-attachments/assets/98a7526d-3173-4d7f-9173-47e3a7753ba9" />
