@@ -28,4 +28,5 @@ the pcb
 the pcb schem
 
 https://github.com/AkqwrdgamerYT/Hackpad-Micropad/blob/main/hackpad.zip   for cad and pcb files
-[hackpad.zip](https://github.com/user-attachments/files/33289515/hackpad.zip)
+[HACKPADCAD.zip](https://github.com/user-attachments/files/33306798/HACKPADCAD.zip)
+
