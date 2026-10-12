@@ -9,8 +9,8 @@ created_at: 2026-10-9
 
 Spent the day laying out traces in KiCad. I got every thing to work.
 
-![pcb scem](<img width="488" height="251" alt="image" src="https://github.com/user-attachments/assets/33b5dfe7-8a1e-4b6f-b89c-a61a82e9ae17" />)
-![pcb layout](<img width="342" height="332" alt="image" src="https://github.com/user-attachments/assets/487b2959-4d0e-41fe-add1-d49d22611b90" />)
+<img width="342" height="332" alt="Screenshot 2026-10-10 124417" src="https://github.com/user-attachments/assets/f2afb00d-9975-416f-ab2e-67f9696ae6b9" />
+<img width="488" height="251" alt="Screenshot 2026-10-10 124306" src="https://github.com/user-attachments/assets/06eadd30-f918-49e0-955c-f09be9103b0a" />
 
 **Total time spent: 4 hours**
 
@@ -19,7 +19,7 @@ Spent the day laying out traces in KiCad. I got every thing to work.
 Spent the day making the case for it. It was i little difficult but i got it,
 now i got to figure out how to check clearance stuff.
 
-![case](<img width="693" height="392" alt="image" src="https://github.com/user-attachments/assets/91e40008-5b68-45ef-b260-81c9fae85f32" />)
+<img width="693" height="392" alt="Screenshot 2026-10-10 124530" src="https://github.com/user-attachments/assets/efd3408f-6960-4c32-b266-f24b6538ebc7" />
 
 **Total time spent: 2 hours**
 
