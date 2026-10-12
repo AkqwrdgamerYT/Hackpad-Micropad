@@ -25,7 +25,7 @@ now i got to figure out how to check clearance stuff.
 
 # OCT 10-11: Designed/fixing the case and finalizing the project
 
-Spent the day making the case for it and finalizing the project. the clearances was so annoying but i got it done, also i got the cap for the dial done.
+Spent the day finalizing the case. the clearances was so annoying but i got it done, also i got the cap for the dial done.
 
 <img width="259" height="341" alt="Screenshot 2026-10-11 195631" src="https://github.com/user-attachments/assets/69417e35-e55c-4c03-a4ba-00b402440df1" />
 
