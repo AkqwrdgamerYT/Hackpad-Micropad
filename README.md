@@ -5,17 +5,7 @@ Potentiometer button (mute and unmute)
 Button's 1, 2, and 3 (open YouTube, discord, and opera) 
 Button's 4, 5, and 6 (media controls)
 
-BOM,qty,Item
-1,1,Case
-1,1,Case bottom
-1,1,Case top
-1,1,PCB
-1,1,Rotary_Encoder: 11mm Size Metal Shaft Type EC11E Series
-6,6,Button_Switch_Keyboard: Gateron G Pro Switch Set (BROWN)
-1,1,Seeed Studio XIAO SAMD21
-6,6,Key caps
-1,1,Dial cap
-1,1,2822-0004-0014 from gobilda (its a pack of 25 but you only need 4)
+
 
 
 <img width="580" height="344" alt="image" src="https://github.com/user-attachments/assets/f9ba4629-534f-42f8-a6c0-1262cecabdb4" />
