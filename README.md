@@ -20,3 +20,4 @@ the pcb schem
 [https://github.com/AkqwrdgamerYT/Hackpad-Micropad/blob/main/hackpad.zip](https://github.com/AkqwrdgamerYT/Hackpad-Micropad/blob/main/HACKPADCAD.zip)   for cad and pcb files
 [HACKPADCAD.zip](https://github.com/user-attachments/files/33306798/HACKPADCAD.zip)
 
+BTW I don't have the parts so I can't get instructions on how to assemble it and flash the firmware
