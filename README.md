@@ -5,7 +5,7 @@ Potentiometer button (mute and unmute)
 Button's 1, 2, and 3 (open YouTube, discord, and opera) 
 Button's 4, 5, and 6 (media controls)
 
-
+demo: https://youtu.be/VbRYApld8Oc
 
 
 <img width="580" height="344" alt="image" src="https://github.com/user-attachments/assets/f9ba4629-534f-42f8-a6c0-1262cecabdb4" />
