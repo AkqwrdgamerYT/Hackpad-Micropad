@@ -6,6 +6,7 @@ Button's 1, 2, and 3 (open YouTube, discord, and opera)
 Button's 4, 5, and 6 (media controls)
 
 demo: https://youtu.be/VbRYApld8Oc
+assembly video: not ready yet
 
 
 <img width="580" height="344" alt="image" src="https://github.com/user-attachments/assets/f9ba4629-534f-42f8-a6c0-1262cecabdb4" />
@@ -20,4 +21,4 @@ the pcb schem
 [https://github.com/AkqwrdgamerYT/Hackpad-Micropad/blob/main/hackpad.zip](https://github.com/AkqwrdgamerYT/Hackpad-Micropad/blob/main/HACKPADCAD.zip)   for cad and pcb files
 [HACKPADCAD.zip](https://github.com/user-attachments/files/33306798/HACKPADCAD.zip)
 
-BTW I don't have the parts so I can't get instructions on how to assemble it and flash the firmware
+BTW I don't have the parts so I can't get instructions on how to assemble it and flash the firmware but when I get it I will make a yt video on how to assemble it and it will be linked under demo when ready
