@@ -10,6 +10,10 @@ assembly video: not ready yet
 
 https://github.com/AkqwrdgamerYT/Hackpad-Micropad/tree/main/kicad%20stuff%20(PCB%26SCHEM)
 For PCB&SCHEM
+https://github.com/AkqwrdgamerYT/Hackpad-Micropad/blob/main/step%20files/all%20files/allfiles.zip
+For All STEP Files
+https://github.com/AkqwrdgamerYT/Hackpad-Micropad/blob/main/step%20files
+For Step files
 
 
 BTW I don't have the parts so I can't get instructions on how to assemble it and flash the firmware but when I get it I will make a yt video on how to assemble it and it will be linked under demo when ready
