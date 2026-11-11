@@ -9,13 +9,13 @@ demo: https://youtu.be/VbRYApld8Oc
 assembly video: not ready yet
 
 #https://github.com/AkqwrdgamerYT/Hackpad-Micropad/blob/main/BOM(Sheet1).csv
-#For BOM
+For BOM
 #https://github.com/AkqwrdgamerYT/Hackpad-Micropad/tree/main/kicad%20stuff%20(PCB%26SCHEM)
-#For PCB&SCHEM
+For PCB&SCHEM
 #https://github.com/AkqwrdgamerYT/Hackpad-Micropad/blob/main/step%20files/all%20files/allfiles.zip
-#For All STEP Files
+For All STEP Files
 #https://github.com/AkqwrdgamerYT/Hackpad-Micropad/blob/main/step%20files
-#For Step files
+For Step files
 
 <img width="613" height="385" alt="Screenshot 2026-10-11 195647" src="https://github.com/user-attachments/assets/66841a9d-463d-493e-a745-d42b215355d1" />
 <img width="342" height="332" alt="Screenshot 2026-10-10 124417" src="https://github.com/user-attachments/assets/3ecfbdd5-27bb-4bca-b014-48a4295fffa7" />
