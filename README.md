@@ -16,7 +16,7 @@ https://github.com/AkqwrdgamerYT/Hackpad-Micropad/blob/main/step%20files
 For Step files
 
 BOM			
-ITEM	QTY.	PRICE (USD)	W.T.B.
+ITEM
 Case (Case bottom Case top) (Get From My CAD File)	1	N/A	N/A
 PCB	1	N/A	N/A
 EC11 vertical encoder 18 pulse 36 detent knurled shaft with switch	1	$13.99	https://www.amazon.com/dp/B09KNC1J6H?lv=shuf&channelId=500&plpRedirect=mhFallback
