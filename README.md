@@ -8,7 +8,7 @@ Button's 4, 5, and 6 (media controls)
 demo: https://youtu.be/VbRYApld8Oc
 assembly video: not ready yet
 
-
+https://github.com/AkqwrdgamerYT/Hackpad-Micropad/blob/main/BOM(Sheet1).csv
 For BOM
 https://github.com/AkqwrdgamerYT/Hackpad-Micropad/tree/main/kicad%20stuff%20(PCB%26SCHEM)
 For PCB&SCHEM
